@@ -1,0 +1,5 @@
+name: hadith_dart_sahih_hasan_grader
+description: "Multi-Criteria Hadith Grading Inference Engine (Sahih/Hasan/Da'if)"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
